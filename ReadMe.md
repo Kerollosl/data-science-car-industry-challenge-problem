@@ -1,9 +1,5 @@
 # Boeing Data Science Challenge Problem ✈️
 
-## Kerollos Lowandy
-
-**Repository:** [data-science-car-industry-challenge-problem](https://github.com/Kerollosl/data-science-car-industry-challenge-problem)
-
 ## 📋 Overview
 
 A machine learning solution for the Boeing Data Science Challenge, predicting aircraft component failures and maintenance needs using regression and classification models. The project analyzes training data to build predictive models for the automotive/aerospace industry.
@@ -150,16 +146,3 @@ The project generates:
 - Quality control in manufacturing
 - Risk assessment for aircraft operations
 
-## 👤 Author
-
-**Kerollos Lowandy**
-- GitHub: [@Kerollosl](https://github.com/Kerollosl)
-- Email: klowandy@gmail.com
-
-## 📄 License
-
-This project is available for educational and research purposes.
-
----
-
-**Last Updated:** March 27, 2026
