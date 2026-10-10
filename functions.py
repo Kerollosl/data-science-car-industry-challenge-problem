@@ -1,3 +1,4 @@
+# Historical experiment helpers. The documented CLI pipeline is canonical.
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -118,3 +119,4 @@ def plot_cm(predicted, actual, model_name):
                                             xticks_rotation='vertical')
     plt.title(f"{model_name} Classification Confusion Matrix")
     plt.show()
+

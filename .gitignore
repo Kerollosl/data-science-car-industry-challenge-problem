@@ -14,3 +14,8 @@ playwright-report/
 .ipynb_checkpoints/
 .idea/
 .DS_Store
+
+/artifacts/*.keras
+/artifacts/*.joblib
+/artifacts/tfjs/
+/predictions/
